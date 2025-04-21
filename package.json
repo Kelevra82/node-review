@@ -1,0 +1,25 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelevra82/node-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelevra82/node-review/issues"
+  },
+  "homepage": "https://github.com/Kelevra82/node-review#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
